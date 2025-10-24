@@ -2,7 +2,7 @@
 
 
 
-Projeto de adivinhação interativo com reconhecimento de voz, desenvolvido para fins de entretenimento e aprendizado.
+Projeto de adivinhação interativo com interação de voz, desenvolvido para fins de entretenimento e aprendizado.
 
 
 
@@ -20,7 +20,7 @@ Projeto de adivinhação interativo com reconhecimento de voz, desenvolvido para
 
 \- Interface amigável
 
-\- Reconhecimento de voz para entrada de dados
+\- Interação de voz para entrada de dados
 
 \- Feedback visual e sonoro
 
