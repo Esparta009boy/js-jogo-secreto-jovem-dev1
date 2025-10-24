@@ -1,36 +1,37 @@
-\# 🎮 Jogo Secreto com Voz
+# 👾 Jogo Secreto com Voz
 
+Projeto de adivinhação interativo com **interação de voz**, desenvolvido para fins de entretenimento e aprendizado.
 
+---
 
-Projeto de adivinhação interativo com interação de voz, desenvolvido para fins de entretenimento e aprendizado.
+## 📊 Estatísticas do Projeto
 
+| ⭐ Estrelas | 📦 Commits | 🔧 Pull Requests | 🐞 Issues | 🌍 Contribuições | 🏆 Nota Geral |
+|------------|------------|------------------|-----------|------------------|----------------|
+| 2          | 222        | 1                | 0         | 1                | A+             |
 
+---
 
-\## 🧪 Tecnologias Utilizadas
+## 🧠 Tecnologias Utilizadas
 
-\- HTML5
+### 🖥️ Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-\- CSS3
+---
 
-\- JavaScript
+## 🎁 Funcionalidades
 
+- Interface amigável  
+- Interação de voz para entrada de dados  
+- Feedback visual e sonoro  
 
+---
 
-\## 📦 Funcionalidades
+## 🚀 Como Executar
 
-\- Interface amigável
-
-\- Interação de voz para entrada de dados
-
-\- Feedback visual e sonoro
-
-
-
-\## 🚀 Como Executar
-
-1\. Clone o repositório:
-
-&nbsp;  ```bash
-
-&nbsp;  git clone https://github.com/Esparta009boy/js-jogo-secreto-jovem-dev1.git
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Esparta009boy/js-jogo-secreto-jovem-dev1.git
 
