@@ -1,3 +1,5 @@
+![Capa do Projeto](./banner.png)
+
 # 👾 Jogo Secreto com Voz
 
 Projeto de adivinhação interativo com **interação de voz**, desenvolvido para fins de entretenimento e aprendizado.
