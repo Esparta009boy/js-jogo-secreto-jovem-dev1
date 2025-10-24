@@ -30,6 +30,7 @@ Projeto de adivinhação interativo com **interação de voz**, desenvolvido par
 ---
 
 ## 🚀 Como Executar
+Para uma melhor experiência com a interação de voz, recomendo utilizar o navegador Google Chrome.
 
 1. Clone o repositório:
    ```bash
