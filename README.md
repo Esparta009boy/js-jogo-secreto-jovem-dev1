@@ -5,6 +5,12 @@
 Projeto de adivinhação interativo com **interação de voz**, desenvolvido para fins de entretenimento e aprendizado.
 
 ---
+## 🎥 Demonstração em Vídeo
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/hdlYnjVOuH4/0.jpg)](https://youtu.be/hdlYnjVOuH4)
+
+Clique na imagem acima para assistir à demonstração completa do projeto no YouTube!
+
 
 ## 📊 Estatísticas do Projeto
 
