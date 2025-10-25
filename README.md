@@ -1,4 +1,4 @@
-![Capa do Projeto](./banner.png)
+![Capa do Projeto](./imagem/banner.png)
 
 # 👾 Jogo Secreto com Voz
 
