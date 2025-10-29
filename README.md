@@ -7,7 +7,7 @@ Projeto de adivinhação interativo com **interação de voz**, desenvolvido par
 ---
 ## 🎥 Demonstração em Vídeo
 
-[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/hdlYnjVOuH4/0.jpg)](https://youtu.be/hdlYnjVOuH4)
+[![Assista ao vídeo no YouTube](https://youtu.be/_YZ6BH2sRko
 
 Clique na imagem acima para assistir à demonstração completa do projeto no YouTube!
 
